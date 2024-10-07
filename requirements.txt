@@ -1,0 +1,7 @@
+requests
+Pillow
+fuzzywuzzy
+python-Levenshtein
+python-slugify
+discogs-client
+python-dotenv
